@@ -11,25 +11,25 @@ import { en, es, id, ar, pt, fr, hi } from "./lib/idiomas/total-idiomas.js";
 //⊱ ━━━━━.⋅ Añada los numeros a ser Propietario/a | Add the numbers to be Owner ⋅.━━━━ ⊰  
 
 global.owner = [
-["51929741688", '𝐌𝐚𝐭𝐞𝐨 𝐁𝐨𝐭 💖🐈', true],
-["51929741688", '𝙊𝙬𝙣𝙚𝙧 💖🐈', true], 
-["51929741688"], 
-["51929741688"], 
-["51929741688"],
-["51929741688"], 
-["51929741688"]]
+["51906090149", '𝐓𝐚𝐧𝐢𝐚 𝐁𝐨𝐭 💖🐈', true],
+["51906090149", '𝙊𝙬𝙣𝙚𝙧 💖🐈', true], 
+["51906090149"], 
+["51906090149"], 
+["51906090149"],
+["51906090149"], 
+["51906090149"]]
 
 //━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ ฅ^•ﻌ•^ฅ
 
 global.mods = [];
-global.prems = ["51929741688"];
+global.prems = ["51906090149"];
 //key de violetics
 global.Key360 = ["964f-0c75-7afc"];
    
   
 //⊱ ━━━━━.⋅ IDIOMA : LENGUAJE ⋅.━━━━ ⊰ 
-//Agrega el Idioma que quieres que tenga MateoBot-MD
-//Add the language you want MateoBot-MD to have
+//Agrega el Idioma que quieres que tenga TaniaBot-MD
+//Add the language you want TaniaBot-MD to have
 //  es = Español         id = Bahasa Indonesia
 //  en = English         pt = Português 
 //  ar = عرب             hi = Hindi Language
@@ -107,8 +107,8 @@ global.desc = ''; //agrega una descripción corta
 global.desc2 = ''; //agrega una descripción larga (Solo se aplicará si su whasapp no tiene descripción)
 global.country = ''; //agrega tú país ejemplo: 🇪🇨
 
-global.packname = "𝐌𝐚𝐭𝐞𝐨 𝐁𝐨𝐭 🐈";
-global.author = "𝐌𝐚𝐭𝐞𝐨 𝐁𝐨𝐭";
+global.packname = "𝐓𝐚𝐧𝐢𝐚 𝐁𝐨𝐭 🐈";
+global.author = "𝐓𝐚𝐧𝐢𝐚 𝐁𝐨𝐭";
 
 //⊱ ━━━━━.⋅ Versión | Nombre | cuentas ⋅.━━━━ ⊰
 
@@ -122,7 +122,7 @@ global.ig = "https://www.instagram.com/gata_dios";
 global.md = "https://github.com/GataNina-Li/GataBot-MD";
 global.fb = "https://www.facebook.com/groups/872989990425789/";
 
-global.nna = 'https://chat.whatsapp.com/Kz6zFTtKva4HaBSqDYfAQf' //UPDATE MATEOBOT
+global.nna = 'https://chat.whatsapp.com/Kz6zFTtKva4HaBSqDYfAQf' //UPDATE TANIABOT
 global.nn2 = 'https://chat.whatsapp.com/Kz6zFTtKva4HaBSqDYfAQf' //UPDATE 2
 global.nna2 = 'https://chat.whatsapp.com/Kz6zFTtKva4HaBSqDYfAQf' //Help
 global.nn = 'https://chat.whatsapp.com/Kz6zFTtKva4HaBSqDYfAQf' //Grupo 1
@@ -135,7 +135,7 @@ global.nnnttt2 = 'https://chat.whatsapp.com/Kz6zFTtKva4HaBSqDYfAQf' //Grupo 7 CO
 global.nnnttt3 = 'https://chat.whatsapp.com/Kz6zFTtKva4HaBSqDYfAQf' //Grupo 8 COL
 global.nnnttt4 = 'https://chat.whatsapp.com/Kz6zFTtKva4HaBSqDYfAQf' //Grupo 9 COL
 global.paypal = 'https://paypal.me/OficialGD'
-global.asistencia = 'Wa.me/51929741688' //Dudas? escríbeme...
+global.asistencia = 'Wa.me/51906090149' //Dudas? escríbeme...
 
 //━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ ฅ^•ﻌ•^ฅ
 
@@ -169,8 +169,8 @@ global.exito = eg;
 
 //⊱ ━━━━━.⋅ Información | Information ⋅.━━━━ ⊰
 
-global.wm = "𝐌𝐚𝐭𝐞𝐨 𝐁𝐨𝐭 : 𝐌𝐚𝐭𝐞𝐨 𝐁𝐨𝐭";
-global.igfg = "𝐌𝐚𝐭𝐞𝐨 𝐁𝐨𝐭-";
+global.wm = "𝐓𝐚𝐧𝐢𝐚 𝐁𝐨𝐭 : 𝐓𝐚𝐧𝐢𝐚 𝐁𝐨𝐭";
+global.igfg = "𝐓𝐚𝐧𝐢𝐚 𝐁𝐨𝐭-";
 global.wait = "*⌛ _Cargando | Charging..._ ▬▭▭▭▭▭▭*";
 global.waitt = "*⌛ _Cargando | Charging..._ ▬▬▭▭▭*";
 global.waittt = "*⌛ _Cargando | Charging..._ ▬▬▬▬▭▭*";
