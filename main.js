@@ -129,7 +129,7 @@ auth: {
 creds: state.creds,
 keys: makeCacheableSignalKeyStore(state.keys, pino({level: 'silent'})),
 },
-browser: ['MateoBot','Edge','1.0.0'],
+browser: ['TaniaBot','Edge','1.0.0'],
 version,
 defaultQueryTimeoutMs: undefined,
 };
