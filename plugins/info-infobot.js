@@ -56,7 +56,7 @@ let old = performance.now()
 
 let info = `╭━━━━[ ${gt} ]━━━━━⬣
 ┃➥ *CREADORA | CREATOR*
-┃ღ *𝐌𝐚𝐭𝐞𝐨 𝐁𝐨𝐭*
+┃ღ *𝐓𝐚𝐧𝐢𝐚 𝐁𝐨𝐭*
 ┃┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈
 ┃➥ *CONTACTO | CONTACT* 
 ┃ღ *${ig}*
@@ -100,7 +100,7 @@ await conn.sendFile(m.chat, pp, 'gata.mp4', info, fkontak)
 ╭━━━━[ ${gt} ]━━━━━⬣
 ┃
 ┃➥ *CREADORA | CREATOR*
-┃ღ *𝐌𝐚𝐭𝐞𝐨 𝐁𝐨𝐭*
+┃ღ *𝐓𝐚𝐧𝐢𝐚 𝐁𝐨𝐭*
 ┃┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈
 ┃➥ *CONTACTO | CONTACT* 
 ┃ღ *${ig}*
