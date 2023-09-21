@@ -6,7 +6,7 @@ let caption = `
 │
 │ *${i + 1}.* ${conn.getName(jid) == undefined ? 'Sin Usuarios Baneados' : conn.getName(jid)}
 │ ${isOwner ? '@' + jid.split`@`[0] : jid}\n│ - - - - - - - - -`.trim()).join('\n') : ''}
-│ *Estos usuarios no puedes Usar a MateoBot*
+│ *Estos usuarios no puedes Usar a 𝐓𝐚𝐧𝐢𝐚 𝐁𝐨𝐭*
 *╰•·–––––––––––––––––––·•*`.trim()
 
 await conn.reply(m.chat, caption, m, { mentions: await conn.parseMention(caption) })}
