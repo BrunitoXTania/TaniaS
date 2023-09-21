@@ -50,7 +50,7 @@ let teksbio = `𝐓𝐚𝐧𝐢𝐚 𝐁𝐨𝐭💖🐈
 *wa.me/51906090149*
 *---------------------*
 
-*CENTER MATEOBOT*
+*CENTER TANIABOT*
 *centergatabot@gmail.com*
 
 𝐓𝐚𝐧𝐢𝐚 𝐁𝐨𝐭 - 𝘼𝙎𝙄𝙎𝙏𝙀𝙉𝘾𝙄𝘼
