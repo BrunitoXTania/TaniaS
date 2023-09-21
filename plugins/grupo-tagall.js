@@ -5,7 +5,7 @@ throw false
 }
 let pesan = args.join` `
 let oi = `ღ ${lenguajeGB['smsAddB5']()} ${pesan}`
-let teks = `╭━〔𝐓𝐚𝐧𝐢𝐚 𝐁𝐨𝐭 𝐭𝐞 𝐢𝐧𝐯𝐨𝐜𝐚 🍕 〕━⬣\n\n${oi}\n\n`
+let teks = `╭━〔𝐓𝐚𝐧𝐢𝐚 𝐁𝐨𝐭 T𝐞 I𝐧𝐯𝐨𝐜𝐚 🍕 〕━⬣\n\n${oi}\n\n`
 for (let mem of participants) {
 teks += `┃🍔🍟 @${mem.id.split('@')[0]}\n`}
 teks += `┃\n`
