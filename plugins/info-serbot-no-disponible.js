@@ -14,7 +14,7 @@ let text = `
 *Las funciones | The functions #jadibot #bots #serbot #subbot #getcode. No estan disponibles en | Are not available in* ${gt}`.trim()   
 conn.reply(m.chat, text, m, {
 contextInfo: { externalAdReply :{ mediaUrl: null, mediaType: 1, description: null, 
-title: '𝐌𝐚𝐭𝐞𝐨 𝐁𝐨𝐭 | 𝐌𝐚𝐭𝐞𝐨 𝐁𝐨𝐭𝙨',
+title: '𝐓𝐚𝐧𝐢𝐚 𝐁𝐨𝐭 | 𝐓𝐚𝐧𝐢𝐚 𝐁𝐨𝐭',
 body: 'Super Bot WhatsApp',         
 previewType: 1, thumbnail: fs.readFileSync("./media/menus/Menu3.jpg"),
 sourceUrl: `${yt}`}}})  
